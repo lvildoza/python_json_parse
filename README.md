@@ -1,4 +1,4 @@
-# Proyecto: Conexión a Base de Datos SQL con Python
+# Proyecto: Consumir y pintar una API con Python
 
 ## Descripción
 
